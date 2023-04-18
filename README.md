@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of regexcite is to ...
+The goal of regexcite is to learn about R packages.
 
 ## Installation
 
